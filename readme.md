@@ -38,8 +38,10 @@ Websites and resources with modern UI components in different formats such as PS
 | [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
 | [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
+| [Z creative labs](https://getwaves.io/)               | A free SVG wave generator to make unique SVG waves for your next web design             |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
+
 
 ## Fonts
 
